@@ -1,0 +1,37 @@
+﻿@page
+@model SmartResearchAssistance.Pages.Admin.UploadPaperModel
+@{
+    ViewData["Title"] = "Upload Paper";
+}
+
+<div class="container mt-4">
+    <h2>Upload Research Paper</h2>
+
+    @if (!string.IsNullOrEmpty(Model.Message))
+    {
+        <div class="alert alert-info">@Model.Message</div>
+    }
+
+    <form method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label>Select PDF File:</label>
+            <div class="custom-file">
+                <input asp-for="Upload" class="custom-file-input" accept=".pdf">
+                <label class="custom-file-label">Choose PDF file...</label>
+            </div>
+            <span asp-validation-for="Upload" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Upload</button>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        document.querySelector('.custom-file-input').addEventListener('change', function(e) {
+            const fileName = e.target.files[0]?.name || 'Choose file...';
+            e.target.nextElementSibling.textContent = fileName;
+        });
+    </script>
+}

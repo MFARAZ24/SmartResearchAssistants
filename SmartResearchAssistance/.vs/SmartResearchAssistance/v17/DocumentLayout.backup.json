@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|e:\\faraz_try\\project_1\\smartresearchassistance\\pages\\admin\\viewpaper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|solutionrelative:pages\\admin\\viewpaper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|e:\\faraz_try\\project_1\\smartresearchassistance\\pages\\admin\\viewpaper.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|solutionrelative:pages\\admin\\viewpaper.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|e:\\faraz_try\\project_1\\smartresearchassistance\\services\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|solutionrelative:services\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|e:\\faraz_try\\project_1\\smartresearchassistance\\models\\paper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|solutionrelative:models\\paper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|e:\\faraz_try\\project_1\\smartresearchassistance\\pages\\admin\\uploadpaper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|solutionrelative:pages\\admin\\uploadpaper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|e:\\faraz_try\\project_1\\smartresearchassistance\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|e:\\faraz_try\\project_1\\smartresearchassistance\\pages\\admin\\managepapers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|solutionrelative:pages\\admin\\managepapers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|e:\\faraz_try\\project_1\\smartresearchassistance\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|e:\\faraz_try\\project_1\\smartresearchassistance\\pages\\admin\\managepapers.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|solutionrelative:pages\\admin\\managepapers.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|e:\\faraz_try\\project_1\\smartresearchassistance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|e:\\faraz_try\\project_1\\smartresearchassistance\\pages\\admin\\uploadpaper.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|solutionrelative:pages\\admin\\uploadpaper.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|e:\\faraz_try\\project_1\\smartresearchassistance\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|e:\\faraz_try\\project_1\\smartresearchassistance\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|solutionrelative:pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|e:\\faraz_try\\project_1\\smartresearchassistance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DB1605B-B88C-4E8A-90C7-66CC7059906D}|SmartResearchAssistance.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PdfService.cs",
+              "DocumentMoniker": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Services\\PdfService.cs",
+              "RelativeDocumentMoniker": "Services\\PdfService.cs",
+              "ToolTip": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Services\\PdfService.cs",
+              "RelativeToolTip": "Services\\PdfService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAtwCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T21:18:22.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Paper.cs",
+              "DocumentMoniker": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Models\\Paper.cs",
+              "RelativeDocumentMoniker": "Models\\Paper.cs",
+              "ToolTip": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Models\\Paper.cs",
+              "RelativeToolTip": "Models\\Paper.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T19:06:58.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManagePapers.cshtml",
+              "DocumentMoniker": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Pages\\Admin\\ManagePapers.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\ManagePapers.cshtml",
+              "ToolTip": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Pages\\Admin\\ManagePapers.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\ManagePapers.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T22:19:08.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T22:20:05.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManagePapers.cshtml.cs",
+              "DocumentMoniker": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Pages\\Admin\\ManagePapers.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\ManagePapers.cshtml.cs",
+              "ToolTip": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Pages\\Admin\\ManagePapers.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\ManagePapers.cshtml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T22:19:43.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UploadPaper.cshtml",
+              "DocumentMoniker": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Pages\\Admin\\UploadPaper.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\UploadPaper.cshtml",
+              "ToolTip": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Pages\\Admin\\UploadPaper.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\UploadPaper.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T22:15:38.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T22:56:24.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UploadPaper.cshtml.cs",
+              "DocumentMoniker": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Pages\\Admin\\UploadPaper.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\UploadPaper.cshtml.cs",
+              "ToolTip": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Pages\\Admin\\UploadPaper.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\UploadPaper.cshtml.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAwwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T22:15:51.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T22:52:00.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewPaper.cshtml.cs",
+              "DocumentMoniker": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Pages\\Admin\\ViewPaper.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\ViewPaper.cshtml.cs",
+              "ToolTip": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Pages\\Admin\\ViewPaper.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\ViewPaper.cshtml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T18:28:28.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T05:03:26.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T05:04:22.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewPaper.cshtml",
+              "DocumentMoniker": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Pages\\Admin\\ViewPaper.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\ViewPaper.cshtml",
+              "ToolTip": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\Pages\\Admin\\ViewPaper.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\ViewPaper.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T18:27:59.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Faraz_try\\Project_1\\SmartResearchAssistance\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T23:18:17.408Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
